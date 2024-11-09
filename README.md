@@ -15,7 +15,7 @@ Members of LLT
 - Sanjo
 - Anupama
 - Aysha Henan
-- Cenna
+- Cenna Joby
 
 ---
 
