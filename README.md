@@ -8,8 +8,8 @@ A short and simple program to help others learn basic of software development.
 Members of LLT
 - Fahad
 - Ameen
-- Aiswarya 
-  
+- Arya
+- Aiswarya
 
 
 ---
