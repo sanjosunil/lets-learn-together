@@ -28,9 +28,7 @@ Members of LLT
 
 ### 2. Git on local system
 1. Install git locally (if on android via termux)
-2. Clone the repo: `git pull <REPO_URL.git>` or `git pull origin main`
-3. Make a folder inside /activities
-4. Open a pull request
+2. Send the screenshot in group (will be uploaded to repo on a later)
 
 ---
 
