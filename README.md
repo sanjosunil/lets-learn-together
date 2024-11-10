@@ -28,8 +28,9 @@ Members of LLT
 
 ### 2. Git on local system
 1. Install git locally (if on android via termux)
-2. Send the screenshot in group (will be uploaded to repo on a later)
-
+2. Clone 'your' repo into local system
+3. Send it screenshot in group chat
+ 
 ---
 
 "Alone we can do so little; together we can do so much" - Helen Keller
