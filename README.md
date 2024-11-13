@@ -26,7 +26,8 @@ Members of LLT
 - Sreya v
 - Muflih
 - Abhirami
-- Abhinav 
+- Abhinav
+- Hima
 
 ### 2. Git on local system
 1. Install git locally (if on android via termux)
