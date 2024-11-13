@@ -27,6 +27,7 @@ Members of LLT
 - Muflih
 - Abhirami
 - Abhinav
+- Naseef NT
 - Hima
 
 ### 2. Git on local system
