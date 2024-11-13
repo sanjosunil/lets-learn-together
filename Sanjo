@@ -1,0 +1,48 @@
+questions = (
+    "Starting position of an array is ?: ",
+    "Git is a: ",
+    "Do you need GitHub to use Git?: "
+)
+
+options = (
+    ("A. 1", "B. 0", "C. 2"),
+    ("A. Website", "B. Version control system", "C. Page"),
+    ("A. Yes", "B. No", "C. Others")
+)
+
+answers = ("B", "B", "B")
+guesses = []
+score = 0
+question_num = 0
+
+
+for question in questions:
+    print("---------------------")
+    print(question)  # Print the current question
+    for option in options[question_num]:
+        print(option)  # Print each option for the current question
+
+    guess = input("Enter(A,B,C): ").upper()
+    guesses.append(guess)
+
+ 
+    if guess == answers[question_num]:
+        score += 1
+        print("CORRECT")
+    else:
+        print("INCORRECT")
+        print(f"{answers[question_num]} is the correct answer")
+
+    question_num += 1
+    print("----------------")
+
+
+print("----------------")
+print("     RESULT      ")
+print("----------------")
+print("Answers: ", " ".join(answers))
+print("Guesses: ", " ".join(guesses))
+
+
+score_percentage = (score / len(questions)) * 100
+print(f"Your score is: {score_percentage:.2f}%")
